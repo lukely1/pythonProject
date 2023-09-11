@@ -7,7 +7,9 @@ Setup & configure WebDriver in Pycharm
 ---------------------------------------
 Pre-requisites:
 ----------
-  Python
+  Selenium 4.12.0
+  
+  Python 3.9
   
   Pychamp
 
@@ -31,9 +33,21 @@ Pre-requisites:
 
 		or through Pycharm project settings...
 
-**Test Execution**
+**Test Cases**
 
-    Open a terminal
+	1) Open Web Browser(Chrome/firefox/Edge).
+	2) Open URL  https://opensource-demo.orangehrmlive.com/
+	3) Enter username  (Admin).
+	4) Enter password  (admin123).   
+	5) Click on Login.
+	6) Capture title of the home page.(Actual title) 
+	7) Verify title of the page: OrangeHRM    (Expected)
+	8) close browser
+
+**Test Excutes**
+
+    Open Pycharm 
+    Open Project > Run on test    
 
 
 
