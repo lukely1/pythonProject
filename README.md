@@ -1,11 +1,20 @@
 **Selenium-WebDrive-Python-Example**	
 
 This repository contains the base setup of Selenium Webdriver, Using python to identify elements page object.
+
      Locate
      Find element, elements
      Implicit, Explicit wait
+     Handles Brokenlinks,  Checkbox,  Dropdow list
+     Alert Popup(driver.switch_to_alert) 
+     Frames/Iframes: switch_to.frame(name of the frame)
+     Browser windows: switch_to.window(WindowID)
+     File Down, Upload
+     Drag/Drop, RightClick, Scrolling, Slide
+     Date Picker
+     Capture Screenshot, TabWindow
+     Data Driven DB
      
-
 Requirements
 Setup & configure WebDriver in Pycharm
 ---------------------------------------
