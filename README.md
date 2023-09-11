@@ -57,7 +57,7 @@ Pre-requisites:
 	7) Verify title of the page: OrangeHRM    (Expected)
 	8) close browser
 
-**Test Excutes**
+**Test Excution**
 
     Open Pycharm 
     Open Project > Run on test    
