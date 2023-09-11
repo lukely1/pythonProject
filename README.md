@@ -1,6 +1,10 @@
 **Selenium-WebDrive-Python-Example**	
 
-This repository contains the base setup of an UI testing project, using Python, Selenium Webdriver and Page Object Model pattern.
+This repository contains the base setup of Selenium Webdriver, Using python to identify elements page object.
+     Locate
+     Find element, elements
+     Implicit, Explicit wait
+     
 
 Requirements
 Setup & configure WebDriver in Pycharm
